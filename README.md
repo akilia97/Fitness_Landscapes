@@ -15,10 +15,6 @@ The DSU Fitness Landscapes project employs fitness landscape modeling to depict 
 
 bin/: Contains executable scripts and binaries.
 
-data/alphafold2/: Houses raw and processed data files.
-
 sql/: SQL scripts for database management and queries.
-
-tbl/: Stores tables and other structured data files.
 
 FitnessLandscape: Bash wrapper
